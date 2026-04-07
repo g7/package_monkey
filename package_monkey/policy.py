@@ -4,6 +4,7 @@
 #
 ##################################################################
 
+import os
 import datetime
 import os
 from .util import infomsg, warnmsg, errormsg
